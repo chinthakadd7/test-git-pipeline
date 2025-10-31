@@ -1,10 +1,10 @@
-#  Jenkins Pipeline Test Project
+###  Jenkins Pipeline Test Project
 
 This repository is a simple example for testing a **Jenkins Declarative Pipeline** integrated with **GitHub**.
 
 ---
 
-##  Project Overview
+####  Project Overview
 
 The purpose of this project is to demonstrate how Jenkins can:
 1. Pull code automatically from GitHub.
@@ -13,5 +13,4 @@ The purpose of this project is to demonstrate how Jenkins can:
 
 ---
 
-##  Repository Structure
 
